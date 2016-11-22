@@ -1,4 +1,4 @@
-# matlab-mysql
+# Matlab-MySQL
 This repository simply contains compiled MySQL files from:
 https://www.mathworks.com/matlabcentral/fileexchange/8663-mysql-database-connector
 
